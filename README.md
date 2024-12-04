@@ -1,5 +1,5 @@
 # waggle_BI_Report 
-- Description
+- Description <br>
 On your mark, get set—go!
 
 You work as a business intelligence analyst for Waggle, a startup that makes smart devices for pets. Recently, Waggle has been thrilled by the success of their new Lapdog device, a fitness collar that lets owners track their dog’s steps, alerts them when it’s time for a walk, and even repels fleas! Reviews have been fantastic, sales are growing, and—best of all—the product really works!
